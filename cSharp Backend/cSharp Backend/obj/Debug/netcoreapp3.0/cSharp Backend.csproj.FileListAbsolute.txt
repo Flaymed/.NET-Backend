@@ -1,0 +1,35 @@
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\bin\Debug\netcoreapp3.0\cSharp Backend.exe
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\bin\Debug\netcoreapp3.0\cSharp Backend.deps.json
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\bin\Debug\netcoreapp3.0\cSharp Backend.runtimeconfig.json
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\bin\Debug\netcoreapp3.0\cSharp Backend.runtimeconfig.dev.json
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\bin\Debug\netcoreapp3.0\cSharp Backend.dll
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\bin\Debug\netcoreapp3.0\cSharp Backend.pdb
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\bin\Debug\netcoreapp3.0\cSharp Backend.Views.dll
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\bin\Debug\netcoreapp3.0\cSharp Backend.Views.pdb
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\cSharp Backend.csprojAssemblyReference.cache
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\staticwebassets\cSharp Backend.StaticWebAssets.Manifest.cache
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\staticwebassets\cSharp Backend.StaticWebAssets.xml
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\cSharp Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\cSharp Backend.RazorAssemblyInfo.cache
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\cSharp Backend.RazorAssemblyInfo.cs
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\cSharp Backend.AssemblyInfoInputs.cache
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\cSharp Backend.AssemblyInfo.cs
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\cSharp Backend.TagHelpers.input.cache
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\cSharp Backend.TagHelpers.output.cache
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\cSharp Backend.RazorCoreGenerate.cache
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\cSharp Backend.RazorTargetAssemblyInfo.cache
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\cSharp Backend.RazorTargetAssemblyInfo.cs
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\cSharp Backend.Views.pdb
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\cSharp Backend.dll
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\cSharp Backend.pdb
+C:\Users\Wayne\Desktop\Coding Projects\.NET-Backend\cSharp Backend\cSharp Backend\obj\Debug\netcoreapp3.0\cSharp Backend.csproj.CopyComplete
